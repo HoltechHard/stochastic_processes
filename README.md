@@ -25,3 +25,6 @@ after 10000 iterations x each process...
 - Evolution of probability distribution of Ornstein-Unlenbeck stochastic process  
   
 ![prob_dist_stochas_process](https://user-images.githubusercontent.com/35493202/221974086-6b1045b1-c386-4026-b1fa-fdcb777986d0.jpeg)
+
+Observations:  
+The process becomes in stationary process, which estabilize in mean of 10 and standard deviation of 1
