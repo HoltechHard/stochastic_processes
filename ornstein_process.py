@@ -40,7 +40,7 @@ def main():
     sqrt_dt = np.sqrt(dt)
 
     # simulation using Euler-Maruyama method
-    # for random variable with mean = 0 and std = 1 ===>  eta = 0 + np.random.randn()
+    # for random variable with mean = 0 and std = 1 ===>  eta = 0 + 1 * np.random.randn()
     for i in range(n-1):
         f_xt = -(x[i] - mu)/tau
         x[i+1] = x[i] + f_xt * dt + g_xt * sqrt_dt * np.random.randn()
