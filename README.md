@@ -1,9 +1,9 @@
-# stochastic_processes
+# Stochastic Processes  
 Stochastic Differential Equations
 
 1. Simulation of brownian motion  
 
-- 10 simulations of brownian motion 
+- 10 simulations of brownian motion  
 after 100 iterations x each process...  
   
 ![10_samples_brownian_mot](https://user-images.githubusercontent.com/35493202/221977504-37baafb3-dfbd-4207-b2bf-52ede4c5c284.jpeg)
@@ -28,3 +28,4 @@ after 10000 iterations x each process...
 
 Observations:  
 The process becomes in stationary process, which estabilize in mean of 10 and standard deviation of 1
+
